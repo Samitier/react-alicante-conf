@@ -30,3 +30,5 @@ What accessibility is and what is it for.
 - Resource for accessibility topics: a11ycasts on youtube
 
 **Opinion**: one of the best talks of the conference. The density of information here was incredible and it made me realize how extremely simple accessibility is when you know how it works.
+
+Found the talk on [youtube](https://www.youtube.com/watch?v=gxwJCF8dqh8).
